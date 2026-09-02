@@ -1,0 +1,3 @@
+Input: is_raining.
+Decision: if it is raining, then drive to work; otherwise, bike to work.
+Output: the chosen commute mode ("drive to work" or "bike to work").
